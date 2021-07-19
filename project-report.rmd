@@ -44,7 +44,7 @@ Damage done by chicken on the fruits
 Our stakeholders are the people who will directly or indirectly benefit form the decision model. They Include;Farmers (apple and chicken), Retailers, Consumers, Non-governmental organizations (NGOs).
 
 ## Decision Maker
-Farmers with already established, conventional commercial apple farmer in NW Europe. Farmers are key decision makers because of calculation the Net Present Value (NPV) in the model This is a variable which is more important to the producers (farmer).
+Farmers with already established, conventional commercial apple farmer in NW Europe. Farmers are key decision makers because of Net Present Value (NPV) calculation in the model This is a variable which is more important to the producers (farmer).
 
 # Conceptual and Coded Model
 
